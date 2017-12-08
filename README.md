@@ -1,4 +1,4 @@
-# test-pack1
+# test-pack1 (edit yaml from local file)
 
 `
 $ pack edit -s ./nginx-deployment.yaml # edit a local file, this will generate a patch in patch/ folder
